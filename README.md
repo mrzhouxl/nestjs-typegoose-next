@@ -1,3 +1,5 @@
+## 由于老版本不兼容，这里新起一个项目进行兼容处理，以供后续使用(会继续维护)
+## Since the old version is not compatible, here is a new project for compatibility processing for subsequent use (will continue to maintain)
 # nestjs-typegoose
 
 [![NPM](https://nodei.co/npm/nestjs-typegoose.png)](https://nodei.co/npm/nestjs-typegoose/)
